@@ -1,0 +1,19 @@
+{"id":26,"identifier":null,"name":"Administrative"}
+{"id":30,"identifier":null,"name":"Purchase Order"}
+{"id":23,"identifier":null,"name":"Complete"}
+{"id":1,"identifier":null,"name":"Task"}
+{"id":20,"identifier":null,"name":"System (P1)"}
+{"id":31,"identifier":null,"name":"Sub-System (P1)"}
+{"id":11,"identifier":null,"name":"Inspection Item (P1)"}
+{"id":22,"identifier":null,"name":"System (P2)"}
+{"id":32,"identifier":null,"name":"Sub-System (P2)"}
+{"id":18,"identifier":null,"name":"Repair/Replace (P2)"}
+{"id":19,"identifier":null,"name":"Maintenance (P2)"}
+{"id":27,"identifier":null,"name":"Material Defect (P2)"}
+{"id":33,"identifier":null,"name":"System (P3)"}
+{"id":34,"identifier":null,"name":"Sub-System (P3)"}
+{"id":24,"identifier":null,"name":"Team Approved (P3)"}
+{"id":29,"identifier":null,"name":"Unanticipated Work (P3)"}
+{"id":25,"identifier":null,"name":"Code Compliance (P3)"}
+{"id":21,"identifier":null,"name":"Postponed Work (P6)"}
+{"id":28,"identifier":null,"name":"Closed"}

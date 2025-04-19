@@ -1,0 +1,29 @@
+{"id":1,"identifier":null,"name":"Needs Inspection Start Date"}
+{"id":6,"identifier":null,"name":"Maintenance"}
+{"id":14,"identifier":null,"name":"Repair/Replace"}
+{"id":4,"identifier":null,"name":"Material Defect (Critical)"}
+{"id":5,"identifier":null,"name":"Not Applicable"}
+{"id":7,"identifier":null,"name":"Inspected"}
+{"id":16,"identifier":null,"name":"System Inspected"}
+{"id":12,"identifier":null,"name":"Team Approved"}
+{"id":13,"identifier":null,"name":"Work Postponed"}
+{"id":15,"identifier":null,"name":"Needs Team Discussion"}
+{"id":17,"identifier":null,"name":"In Progress"}
+{"id":18,"identifier":null,"name":"Needs Start Date"}
+{"id":19,"identifier":null,"name":"Closed"}
+{"id":20,"identifier":null,"name":"Completed"}
+{"id":21,"identifier":null,"name":"On Hold"}
+{"id":22,"identifier":null,"name":"City Approved"}
+{"id":23,"identifier":null,"name":"Permit Submitted"}
+{"id":24,"identifier":null,"name":"Work Underway"}
+{"id":25,"identifier":null,"name":"Awaiting Inspections"}
+{"id":26,"identifier":null,"name":"Inspection Passed"}
+{"id":27,"identifier":null,"name":"Inspection Failed"}
+{"id":28,"identifier":null,"name":"Scheduled"}
+{"id":29,"identifier":null,"name":"Set Appointment"}
+{"id":30,"identifier":null,"name":"Quote"}
+{"id":31,"identifier":null,"name":"Call"}
+{"id":32,"identifier":null,"name":"Paid"}
+{"id":33,"identifier":null,"name":"Delivery Scheduled"}
+{"id":34,"identifier":null,"name":"Payment Pending"}
+{"id":35,"identifier":null,"name":"ETA Pending"}

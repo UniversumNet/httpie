@@ -1,0 +1,41 @@
+/home/walt/httpie
+├── api
+│   └── p1
+│       ├── clone-p1-components-to-p2.sh
+│       ├── clone-p1-parents-to-p2.sh
+│       └── start-date-P1.sh
+├── collections
+│   ├── project-ids.json
+│   ├── statuses-ids.json
+│   ├── types-ids.json
+│   └── work-packages-P1.json
+├── env
+│   ├── api-key
+│   ├── global_env
+│   └── oauth2
+│       ├── authorization
+│       └── client-credential
+│           └── openproject
+├── httpie-file-structure.txt
+├── logs
+│   ├── clone-components.log
+│   ├── clone-parents.log
+│   ├── token_manager.log
+│   └── watch-triggered.log
+├── scripts
+│   ├── post-response
+│   │   └── error_handler.sh
+│   ├── pre-request
+│   │   └── token_manager.sh
+│   └── watch-triggered.sh
+└── session
+    ├── api-keys
+    ├── oauth-tokens
+    │   ├── openproject_access_token
+    │   ├── openproject_access_token.sync-conflict-20250415-005001-ZV2UAJG
+    │   ├── openproject_token_expiration
+    │   └── openproject_token_expiration.sync-conflict-20250415-005001-ZV2UAJG
+    ├── p1_to_p2_parents.json
+    └── processed-items.json
+
+16 directories, 23 files

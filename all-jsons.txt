@@ -1,0 +1,12 @@
+
+##### FILE: /home/walt/httpie/collections/project-ids.json #####
+
+
+##### FILE: /home/walt/httpie/collections/statuses-ids.json #####
+
+
+##### FILE: /home/walt/httpie/collections/types-ids.json #####
+
+
+##### FILE: /home/walt/httpie/collections/work-packages-P1.json #####
+

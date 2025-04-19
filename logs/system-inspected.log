@@ -1,0 +1,16 @@
+[RUN] 2025-04-19 03:42:56 – phase-1-status-script started
+[INFO] Fetching work packages for project 25...
+
+http: LogLevel.WARNING: HTTP 401 Unauthorized
+
+
+{"_type":"Error","errorIdentifier":"urn:openproject-org:api:v3:errors:Unauthenticated","message":"You did not provide the correct credentials."}
+[UNKNOWN ERROR] (4) An unexpected error occurred.
+[RUN] 2025-04-19 03:44:30 – phase-1-status-script started
+[INFO] Fetching work packages for project 25...
+
+http: LogLevel.WARNING: HTTP 401 Unauthorized
+
+
+{"_type":"Error","errorIdentifier":"urn:openproject-org:api:v3:errors:Unauthenticated","message":"You did not provide the correct credentials."}
+[UNKNOWN ERROR] (4) An unexpected error occurred.

@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: httpie-kali
+created: 2025-04-05T09:38:55-04:00
