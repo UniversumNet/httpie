@@ -1,1 +1,0 @@
-export ACCESS_TOKEN=$(cat /home/walt/httpie/session/oauth-tokens/openproject_access_token 2>/dev/null || echo "")

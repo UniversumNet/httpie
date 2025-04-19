@@ -1,5 +1,0 @@
-TOKEN_URL="https://openproject.universum.nexus/oauth/token"
-CLIENT_ID="eeKZC5QjgHsI49DaV58kFuV4W95g-kW1Z-BET3xePmM"
-CLIENT_SECRET="Dgq1hooslE1nJ8yEqJrJQyVAPJVcCu6u5vJa0Cstv_0"
-ACCESS_TOKEN_FILE="/home/walt/httpie/session/oauth-tokens/openproject_access_token"
-TOKEN_EXPIRATION_FILE="/home/walt/httpie/session/oauth-tokens/openproject_token_expiration"
